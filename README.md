@@ -19,7 +19,8 @@ This repo is designed to:
 - Supervised learning
 - Data preprocessing
 - Model evaluation
-- …
+- Decision Trees Algorithm
+- Random Forest Algorithm
 
 ## How to use
 Open any notebook in Google Colab or Jupyter:
